@@ -24,20 +24,6 @@ This project is a simple RESTful API built with Node.js and Express for managing
 
 ---
 
-## 📁 Project Structure
-
- app.js
-├── controllers/
-│ └── userController.js
-├── data/
-│ └── users.js
-├── middleware/
-│ ├── logger.js
-│ └── validator.js
-├── routes/
-│ └── userRoutes.js
-└── package.json
-
 
 # Clone the repo
 git clone https://github.com/your-username/node-rest-api.git
